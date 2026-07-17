@@ -1,0 +1,5 @@
+body { max-width: 720px; margin: 40px auto; padding: 0 20px; font-family: -apple-system, Georgia, serif; line-height: 1.7; color: #3E3226; background: #FAF6EE; }
+h1 { border-bottom: 2px solid #C4664B; padding-bottom: 8px; }
+h2 { color: #C4664B; margin-top: 32px; }
+a { color: #C4664B; }
+footer { margin-top: 48px; font-size: 0.85em; color: #8A7B68; }
